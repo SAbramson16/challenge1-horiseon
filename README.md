@@ -16,7 +16,7 @@ assets.style.css
 
 The website can be launched by using GitHub pages, and follwing this URL: https://sabramson16.github.io/challenge1-horiseon/index.html.
 
-![Alt text](<Horiseon screenshot.png>)
+![Alt text](./assets/images/Horiseon-20screenshot.png)
 
 ## Credits
 

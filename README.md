@@ -20,7 +20,7 @@ The website can be launched by using GitHub pages, and follwing this URL: https:
 
 ## Credits
 
-N/A
+Credits and ownership goes to Horiseon. Refactoring completed by Sharon Abramson. 
 
 ## License
 
